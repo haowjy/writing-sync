@@ -1,6 +1,6 @@
 [package]
 name = "writing-sync"
-version = "0.1.0"
+version = "0.1.1"
 description = "Destination sync skills for writing projects. Google Drive reading copies now; other destinations later."
 
 [settings]
