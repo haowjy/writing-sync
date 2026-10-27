@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-10-27
+
 ### Changed
 - Agent and skill definitions use Mars schema 1; requires Mars >=0.20.0 (Meridian with Mars 0.20).
 
