@@ -23,10 +23,8 @@ meridian mars sync
 ```
 
 If you already use [creative-writing-skills](https://github.com/haowjy/creative-writing-skills),
-add this package the same way. That repo's Claude / Cowork / Claude.ai plugin
-does not include this skill; its harness install is in the
-[creative-writing-skills Installation](https://github.com/haowjy/creative-writing-skills#installation)
-section.
+you already have this skill: that package depends on this one, so a Mars install
+pulls it in and its Claude / Cowork / Claude.ai plugin ships it.
 
 [skills.sh](https://skills.sh) (Claude Code, Cursor, Codex, OpenCode, and the
 other agents listed there):
