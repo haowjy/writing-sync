@@ -1,9 +1,10 @@
 ---
 name: writing-sync
-type: reference
 description: >
   Load when syncing selected local files to a remote reading copy, or bringing
   remote edits back into those files. Google Drive/Docs only.
+metadata:
+  type: reference
 ---
 
 Run the installed CLI. Do not rewrite YAML or call the remote API by hand.
